@@ -11,6 +11,9 @@ Calculate dN/dS ratio precisely (Ka/Ks) using a codon-by-codon counting
 method. Also calculates the pN/pS ratio precisely (previously referred to as
 dN/dS).
 
+Published bioinformatics research - DNA pattern analysis
+https://zenodo.org/records/7682651
+
 Usage
 -----
 
